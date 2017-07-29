@@ -1,0 +1,6 @@
+version: "2"
+services:
+    omniclassifier-server:
+        image: "omniclassifier-server:latest"
+        ports:
+            - "3010:3010"

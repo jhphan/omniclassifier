@@ -1,0 +1,13 @@
+{
+  "name": "omniClassifierServer",
+  "version": "1.0.0",
+  "description": "omniClassifier Server",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "John H. Phan (jhphan@gmail.com)",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^16.5.0"
+  }
+}
